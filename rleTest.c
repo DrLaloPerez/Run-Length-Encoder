@@ -63,5 +63,5 @@ int getLine(Byte* line) {
 void printLine(Byte* line, int size) {
 	while (size--)
 		printf("%c", *line++);
-	printf("\n");
+	printf("\n\n");
 }

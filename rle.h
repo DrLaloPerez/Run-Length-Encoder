@@ -6,7 +6,7 @@
 //	(c) 2015 - 2017 Digital Gap, Inc.
 //
 
-#if !defined
+#ifndef	RLE_H
 #define RLE_H
 
 #include <stdlib.h>
